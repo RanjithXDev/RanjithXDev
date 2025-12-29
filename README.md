@@ -53,7 +53,7 @@ Passionate about building scalable applications and solving real-world problems 
 ## 🧠 Competitive Coding
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&border=0" />
+  <img src="https://leetcard.jacoblin.cool/ranjithmv?theme=dark&font=Karma&border=0" />
 </p>
 
 ---
