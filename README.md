@@ -77,7 +77,6 @@
 <p align="center" style="font-size: 18px; font-weight: 500; opacity: 0.9;">
   Vibe coder focused on clarity, flow, and scalable systems
 </p>
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,45&height=100&section=footer" width="100%" />
