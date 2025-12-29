@@ -74,9 +74,10 @@
 </p>
 
 ---
+<p><i>"Coding with focus. Building with purpose."</i></p>
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,45&height=100&section=footer" width="100%" />
-  <p><i>"Excellence is not an accident. It is the result of discipline, learning, and persistence."</i></p>
+
 </div>
