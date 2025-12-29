@@ -28,11 +28,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanjithXcode&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanjithXDev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjithXcode&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjithXDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjithXcode&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjithXDev&theme=react-dark" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🧠 Competitive Coding
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/ranjithmv?theme=dark&font=Karma" />
 </p>
 
 ---
@@ -63,9 +63,9 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/RanjithXcode  
-- LinkedIn: (add your LinkedIn URL here)  
-- Portfolio: (add later)
+- GitHub: https://github.com/RanjithXDev  
+- LinkedIn: https://www.linkedin.com/in/ranjithmv/  
+- Portfolio: https://ranjithmv.netlify.app/
 
 ---
 
