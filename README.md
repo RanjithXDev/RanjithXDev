@@ -74,7 +74,9 @@
 </p>
 
 ---
-<p><i>"Coding with focus. Building with purpose."</i></p>
+<p align="center" style="font-size: 18px; font-weight: 500; opacity: 0.9;">
+  Vibe coder focused on clarity, flow, and scalable systems
+</p>
 ---
 
 <div align="center">
