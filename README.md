@@ -59,33 +59,21 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Analytics</h2>
+## 📈 Contribution Overview
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RanjithXDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Ranjith's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjithXDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Ranjith's Top Langs" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/ranjithmv?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjithXDev&theme=tokyonight" />
+</p>
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
-<div align="center">
-  <img src="https://github.com/RanjithXDev/RanjithXDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
+## 🧠 Competitive Programming
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ranjithmv?theme=dark&font=Inter&border=0" />
+</p>
+
+---
 ---
 
 <div align="center">
