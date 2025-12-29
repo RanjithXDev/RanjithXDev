@@ -1,19 +1,24 @@
-<h1 align="center">Ranjith M V</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ranjith%20M%20V&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" />
+</p>
+
+<h3 align="center">
+Passionate about building scalable applications and solving real-world problems using modern technologies
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanjithXcode&label=Profile%20Views&color=0e75b6&style=flat" />
+  📍 India &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Open to Opportunities &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Full Stack Development
 </p>
 
 ---
 
 ## 👋 About Me
 
-- Passionate about building scalable and efficient web applications  
-- Strong interest in Artificial Intelligence & Machine Learning  
-- Hands-on with MERN stack and backend-driven systems  
-- Focused on writing clean, maintainable, production-ready code  
-- Open to internships, entry-level roles, and collaborative projects  
+- Full Stack Developer with a strong foundation in web technologies  
+- Enthusiastic about Artificial Intelligence and Machine Learning  
+- Experienced in building end-to-end MERN stack applications  
+- Focused on clean code, performance, and scalability  
+- Continuously learning and improving through real-world projects  
 
 ---
 
@@ -28,11 +33,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanjithXDev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanjithXDev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjithXDev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjithXDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +45,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjithXDev&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjithXDev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -48,24 +53,24 @@
 ## 🧠 Competitive Coding
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ranjithmv?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&border=0" />
 </p>
 
 ---
 
 ## 🚀 Featured Work
 
-- AI-powered applications for real-world problem solving  
-- Full-stack web projects using MERN architecture  
-- Backend systems with REST APIs and database optimization  
+- AI-driven applications for real-world problem solving  
+- Full Stack MERN projects with RESTful APIs  
+- Backend systems with optimized database design  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/RanjithXDev  
-- LinkedIn: https://www.linkedin.com/in/ranjithmv/  
-- Portfolio: https://ranjithmv.netlify.app/
+- 🌐 Portfolio: https://ranjithmv.netlify.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ranjithmv/  
+- 💻 GitHub: https://github.com/RanjithXDev  
 
 ---
 
